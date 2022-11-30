@@ -12,6 +12,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [7-movethatfile](#7-movethatfile)
 * [8-firstdelete](#8-firstdelete)
 * [9-firstdirdeletion](#9-firstdirdeletion)
+* [10-back](#10-back)
 
 
 ## 0-current_working_directory
@@ -53,3 +54,7 @@ This deletes the "betty" file created from previous script
 ## 9-firstdirdeletion
 
 This deletes the directory "my_first_directory" from the /tmp directory
+
+## 10-back
+
+This changes the working directory to the previous one
