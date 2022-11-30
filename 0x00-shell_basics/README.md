@@ -14,6 +14,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [9-firstdirdeletion](#9-firstdirdeletion)
 * [10-back](#10-back)
 * [11-lists](#11-lists)
+* [12-file_type](#12-file_type)
 
 
 ## 0-current_working_directory
@@ -63,3 +64,7 @@ This changes the working directory to the previous one
 ## 11-lists
 
 This shows a long list of the current directory, the parent directory of the workind directory and the /boot directory. This includes all hidden files
+
+## 12-file_type
+
+This prints the type of file "iamafile" is. This file is found in the /tmp directory
