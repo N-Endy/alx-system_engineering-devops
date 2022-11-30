@@ -19,6 +19,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [14-copy_html](#14-copy_html)
 * [100-lets_move](#100-lets_move)
 * [101-clean_emacs](#101-clean_emacs)
+* [102-tree](#102-tree)
 
 
 ## 0-current_working_directory
@@ -88,3 +89,7 @@ This moves all the files beginning with an uppercase letter to the directory /tm
 ## 101-clean_emacs
 
 This deletes all files in the current working directory that end with the character ~
+
+## 102-tree
+
+This creates 3 files in the current directory
