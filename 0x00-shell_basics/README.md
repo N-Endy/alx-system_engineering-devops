@@ -98,3 +98,7 @@ This creates 3 files in the current directory
 ## 103-commas
 
 This lists all the files and directories seperated by commas with the digits coming first, all with hidden files showing
+
+## school.mgc
+
+Magic file
