@@ -18,6 +18,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [13-symbolic_link](#13-symbolic_link)
 * [14-copy_html](#14-copy_html)
 * [100-lets_move](#100-lets_move)
+* [101-clean_emacs](#101-clean_emacs)
 
 
 ## 0-current_working_directory
@@ -83,3 +84,7 @@ This copies all the HTML files from the current working directory to the parent 
 ## 100-lets_move
 
 This moves all the files beginning with an uppercase letter to the directory /tmp/u
+
+## 101-clean_emacs
+
+This deletes all files in the current working directory that end with the character ~
