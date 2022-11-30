@@ -13,6 +13,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [8-firstdelete](#8-firstdelete)
 * [9-firstdirdeletion](#9-firstdirdeletion)
 * [10-back](#10-back)
+* [11-lists](#11-lists)
 
 
 ## 0-current_working_directory
@@ -58,3 +59,7 @@ This deletes the directory "my_first_directory" from the /tmp directory
 ## 10-back
 
 This changes the working directory to the previous one
+
+## 11-lists
+
+This shows a long list of the current directory, the parent directory of the workind directory and the /boot directory. This includes all hidden files
