@@ -7,6 +7,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [2-bring_me_home](#2-bring_me_home)
 * [3-listfiles](#3-listfiles)
 * [4-listmorefiles](#4-listmorefiles)
+* [5-listfilesdigitonly](#5-listfilesdigitonly)
 
 
 
@@ -29,3 +30,7 @@ This displays the current directory contents in a long format
 ## 4-listmorefiles
 
 This displays the current directory contents, including hidden files
+
+## 5-listfilesdigitonly
+
+This displays files in the long format but with user and group IDs displayed numerically
