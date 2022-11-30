@@ -15,6 +15,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [10-back](#10-back)
 * [11-lists](#11-lists)
 * [12-file_type](#12-file_type)
+* [13-symbolic_link](#13-symbolic_link)
 
 
 ## 0-current_working_directory
@@ -68,3 +69,7 @@ This shows a long list of the current directory, the parent directory of the wor
 ## 12-file_type
 
 This prints the type of file "iamafile" is. This file is found in the /tmp directory
+
+#13-symbolic_link
+
+This creates a symbolic link to "/bin/ls" named __ls__. The link is created in the present working directory
