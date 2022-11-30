@@ -10,6 +10,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [5-listfilesdigitonly](#5-listfilesdigitonly)
 * [6-firstdirectory](#6-firstdirectory)
 * [7-movethatfile](#7-movethatfile)
+* [8-firstdelete](#8-firstdelete)
 
 
 ## 0-current_working_directory
@@ -43,3 +44,7 @@ This creates a directory "my_first_directory" in the /tmp/ directory
 ## 7-movethatfile
 
 This moves the file "betty" from the /tmp/ to /tmp/my_first_directory
+
+## 8-firstdelete
+
+This deletes the "betty" file created from previous script
