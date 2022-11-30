@@ -6,6 +6,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [1-listit](#1-listit)
 * [2-bring_me_home](#2-bring_me_home)
 * [3-listfiles](#3-listfiles)
+* [4-listmorefiles](#4-listmorefiles)
 
 
 
@@ -24,3 +25,7 @@ This changes the working directory to the user's home directory without use of a
 ## 3-listfiles
 
 This displays the current directory contents in a long format
+
+## 4-listmorefiles
+
+This displays the current directory contents, including hidden files
