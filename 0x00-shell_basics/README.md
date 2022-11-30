@@ -20,6 +20,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [100-lets_move](#100-lets_move)
 * [101-clean_emacs](#101-clean_emacs)
 * [102-tree](#102-tree)
+* [103-commas](#103-commas)
 
 
 ## 0-current_working_directory
@@ -93,3 +94,7 @@ This deletes all files in the current working directory that end with the charac
 ## 102-tree
 
 This creates 3 files in the current directory
+
+## 103-commas
+
+This lists all the files and directories seperated by commas with the digits coming first, all with hidden files showing
