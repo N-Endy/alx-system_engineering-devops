@@ -17,6 +17,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [12-file_type](#12-file_type)
 * [13-symbolic_link](#13-symbolic_link)
 * [14-copy_html](#14-copy_html)
+* [100-lets_move](#100-lets_move)
 
 
 ## 0-current_working_directory
@@ -78,3 +79,7 @@ This creates a symbolic link to "/bin/ls" named __ls__. The link is created in t
 ## 14-copy_html
 
 This copies all the HTML files from the current working directory to the parent of the working directory. It only copies files that didn't exist in the parent of the working directoryor were newer than the version in the parent of the working directory
+
+## 100-lets_move
+
+This moves all the files beginning with an uppercase letter to the directory /tmp/u
