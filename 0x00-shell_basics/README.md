@@ -8,7 +8,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [3-listfiles](#3-listfiles)
 * [4-listmorefiles](#4-listmorefiles)
 * [5-listfilesdigitonly](#5-listfilesdigitonly)
-
+* [6-firstdirectory](#6-firstdirectory)
 
 
 ## 0-current_working_directory
@@ -34,3 +34,7 @@ This displays the current directory contents, including hidden files
 ## 5-listfilesdigitonly
 
 This displays files in the long format but with user and group IDs displayed numerically
+
+## 6-firstdirectory
+
+This creates a directory "my_first_directory" in the /tmp/ directory
