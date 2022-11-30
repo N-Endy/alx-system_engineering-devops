@@ -16,6 +16,7 @@ This is a basic explanation of what each script in each file does. Below is a li
 * [11-lists](#11-lists)
 * [12-file_type](#12-file_type)
 * [13-symbolic_link](#13-symbolic_link)
+* [14-copy_html](#14-copy_html)
 
 
 ## 0-current_working_directory
@@ -70,6 +71,10 @@ This shows a long list of the current directory, the parent directory of the wor
 
 This prints the type of file "iamafile" is. This file is found in the /tmp directory
 
-#13-symbolic_link
+## 13-symbolic_link
 
 This creates a symbolic link to "/bin/ls" named __ls__. The link is created in the present working directory
+
+## 14-copy_html
+
+This copies all the HTML files from the current working directory to the parent of the working directory. It only copies files that didn't exist in the parent of the working directoryor were newer than the version in the parent of the working directory
